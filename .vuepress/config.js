@@ -1,5 +1,6 @@
 module.exports = {
     "title": "Wen's Blog",
+    "lang": "zh-cn",
     "description": "Blog",
     "dest": "public",
     "head": [
